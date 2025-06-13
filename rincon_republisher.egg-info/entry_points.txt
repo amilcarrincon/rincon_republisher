@@ -1,0 +1,3 @@
+[console_scripts]
+republisher_client = rincon_republisher.republisher_client:main
+republisher_server = rincon_republisher.republisher_server:main

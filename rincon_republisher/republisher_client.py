@@ -46,3 +46,6 @@ def main(args=None):
     rclpy.init(args=args)
     node = RepublisherClient()
     rclpy.spin(node)
+
+if __name__ == '__main__':
+    main()

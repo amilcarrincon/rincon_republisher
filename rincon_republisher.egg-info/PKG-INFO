@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: rincon_republisher
+Version: 0.0.0
+Summary: Republisher action example
+Maintainer: user
+Maintainer-email: amilcar.rincon.charris@gmail.com
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

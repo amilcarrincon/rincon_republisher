@@ -35,3 +35,6 @@ def main(args=None):
     node = RepublisherServer()
     rclpy.spin(node)
     rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
